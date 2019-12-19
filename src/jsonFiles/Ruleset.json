@@ -1,0 +1,5 @@
+[
+  {"sourceId":"1","condition":">=","columnName": "salary","value":"10"},
+  {"sourceId":"2","condition":"like","columnName": "name","value":"A%"},
+  {"sourceId":"3","condition":"==","columnName": "action","value":"Close"}
+]
